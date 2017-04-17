@@ -1,6 +1,6 @@
 {
     "name": "datatables.net-buttons-bs4",
-    "version": "2.2.0",
+    "version": "1.3.0",
     "description": "Buttons for DataTables with styling for [Bootstrap 4](http://getbootstrap.com/)",
     "files": [
         "js/buttons.bootstrap4.js",
