@@ -1,6 +1,6 @@
 {
     "name": "datatables.net-buttons-bs4",
-    "version": "1.6.4",
+    "version": "1.6.5",
     "description": "Buttons for DataTables with styling for [Bootstrap 4](http://getbootstrap.com/)",
     "files": [
         "css/**/*.css",
@@ -29,7 +29,7 @@
     "dependencies": {
         "jquery": ">=1.7",
         "datatables.net-bs4": "^1.10.15",
-        "datatables.net-buttons": "1.6.4"
+        "datatables.net-buttons": "1.6.5"
     },
     "style": "css/buttons.bootstrap4.css"
 }
