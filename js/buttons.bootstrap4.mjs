@@ -1,4 +1,4 @@
-/*! Buttons Bootstrap 4 styling 4.1.3 for DataTables
+/*! Buttons Bootstrap 4 styling 4.1.4 for DataTables
  * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
 
